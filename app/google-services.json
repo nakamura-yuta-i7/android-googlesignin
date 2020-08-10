@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747476070660",
+    "project_id": "shatto-android"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747476070660:android:df9db46f3422df4c",
+        "android_client_info": {
+          "package_name": "com.dena.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747476070660-5pmagc7sob0ogsvu4q55aoh2hdj3st4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dena.googlesignin",
+            "certificate_hash": "18be59094de92f5e811feb5b5d973bc0dff22571"
+          }
+        },
+        {
+          "client_id": "747476070660-3ah1l6bq4r3he3b52o7um4kdvt573qu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoj-sU1jpeO0Wx6ee3Btx2pImKV0Ypq7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
